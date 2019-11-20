@@ -1,0 +1,141 @@
+.al:link {
+text-decoration:none;
+color:black;
+transition:0.3s;
+}
+
+.al:visited {
+text-decoration:none;
+color:black;
+}
+
+.al:hover {
+color:black;
+padding-left:20px;
+padding-right:20px;
+font-size:110%;
+transition:0.3s;
+}
+
+.bl:link {
+text-decoration:none;
+color:black;
+transition:0.3s;
+}
+
+.bl:visited {
+text-decoration:none;
+color:black;
+}
+
+.bl:hover {
+color:black;
+padding-left:20px;
+padding-right:20px;
+font-size:110%;
+transition:0.3s;
+}
+
+.headmain {
+	opacity: 0.3;
+	transition: 0.3s;
+	background-color:white;
+}
+
+.headmain:hover {
+	opacity: 0.8;
+	transition: 0.3s;
+}
+
+.headmainb{
+	background-color:white;
+	opacity:0.5;
+	transition: 0.3s;
+	
+}
+.headmainb:hover{
+	background-color:#fafafa;
+	transition: 0.3s;
+	opacity:1
+}
+
+th {
+	font-size: 130%;
+	color:white;
+	font-family: 'Lucida Sans Unicode';
+}
+
+body{
+	
+	margin:0
+	
+	
+}
+.stitched {
+   padding: 20px;
+   margin: 10px;
+   background: white;
+   color: grey;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   box-shadow: 0 0 0 4px white, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px white;
+   font-weight: normal;
+}
+
+input{
+	background-color:white;
+	font-family: 'Lucida Sans Unicode';
+	letter-spacing:4px;
+	border-radius:30px;
+	border:0;
+	color:black;
+	padding:15px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.readb{
+	background-color:black;
+	color:white;
+	font-size:110%;
+	border-radius:0px;
+	box-shadow: 0 0 0 4px black, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+}
+
+div,h2{
+	font-family: 'Lucida Sans Unicode';
+}
+
+#main{
+	font-size:300%;
+	text-shadow:2px 2px 2px grey;
+	letter-spacing:30px;
+	padding-top:30px;
+	padding-bottom:30px
+}
+
+#mainbody{
+	background-color:white;
+	color:black;
+	text-align:center;
+}
+#divbody{
+	background-color:white;
+}
+
+#divfooter{
+	background-color:black;
+}
+
+#footer{
+	color:white;
+	text-align:center;
+}
+
+#ex{
+	border:3px solid black;
+	border-collapse:collapse;
+	
+}
